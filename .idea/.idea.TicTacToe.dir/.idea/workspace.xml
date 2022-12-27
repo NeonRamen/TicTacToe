@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9eb64cd1-dcfc-403f-9581-23f80819e3d6" name="Changes" comment="Added the implementation into the brainstorming.md" />
+    <list default="true" id="9eb64cd1-dcfc-403f-9581-23f80819e3d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/class diagram/class_brainstorming.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/class diagram/pseudocode_gameboard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/class diagram/pseudocode_gameboard_setter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/class diagram/pseudocode_generate_gameboard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/class diagram/pseudocode_player_settings_symbols.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/class diagram/pseudocode_two_different_moves.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tictactoe/class diagram/pseudocode_win_checker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TicTacToe.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TicTacToe.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe/requirements/brainstorming.md" beforeDir="false" afterPath="$PROJECT_DIR$/tictactoe/requirements/brainstorming.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictactoe/requirements/requirements.md" beforeDir="false" afterPath="$PROJECT_DIR$/tictactoe/requirements/requirements.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671992258229</updated>
       <workItem from="1671992262900" duration="2440000" />
+      <workItem from="1672169112733" duration="3937000" />
     </task>
     <task id="LOCAL-00001" summary="Made a requirements folder for planning and a brainstorming file for gathering all requirements for the game">
       <created>1671994562474</created>

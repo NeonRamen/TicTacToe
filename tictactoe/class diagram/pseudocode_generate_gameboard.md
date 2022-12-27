@@ -1,0 +1,1 @@
+two dimensional matrix is a copy of the class current_gameboard

@@ -1,2 +1,2 @@
 # TicTacToe
-small tictactoe game made with jetbrains and unity
+TicTacToe is a pen and paper game anyone can play. 
